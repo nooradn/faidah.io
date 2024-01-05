@@ -1,5 +1,5 @@
 ## Preview
-![Faidah.io Page Preview Image](assets\preview-faidah.png)
+![Faidah.io Page Preview Image](assets/preview-faidah.png)
 
 
 ## About
