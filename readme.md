@@ -1,3 +1,7 @@
+## Preview
+![Faidah.io Page Preview Image](assets\preview-faidah.png)
+
+
 ## About
 Faidah.io is a personal self-reminder website that contains faidah (advice).
 
